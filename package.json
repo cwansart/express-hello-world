@@ -1,0 +1,20 @@
+{
+  "name": "express-hello-world",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cwansart/express-hello-world.git"
+  },
+  "author": "Christian Wansart",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/cwansart/express-hello-world/issues"
+  },
+  "homepage": "https://github.com/cwansart/express-hello-world#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
